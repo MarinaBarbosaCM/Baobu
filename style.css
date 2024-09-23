@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+   background-color: black;
+    }
+
+.chamada{
+    padding: 30px;
+    font-display: 60px;  
+    background-color: #b51924;
+    text-align: center;
+    font-style: italic;
+    color: #f5daa9;
+}
+
+.imagem-logo {
+    background-color: black;
+    text-align: center;
+}
+
+.produto {
+    margin: 30px;
+    border-image: 15px;
+    text-align: center;
+    image-orientation: 100px;
+}
+
+.Instagram {
+    text-align: center;
+    background-color: black;
+    margin: 15px;
+}
+
+p { 
+    margin: 30px;
+    border: solid 5px #b51924;
+    color: #f5daa9;
+    text-align: center;
+    font-size: 30px;
+    font-style: helvetica;
+
+}
