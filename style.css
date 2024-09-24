@@ -30,12 +30,25 @@
     margin: 15px;
 }
 
-p { 
+.discriçao { 
     margin: 30px;
     border: solid 5px #b51924;
     color: #f5daa9;
     text-align: center;
     font-size: 30px;
     font-style: helvetica;
+}
+
+.menu {
+    padding: 10px;
+}
+
+h1{
+    color: #b51924;
+    font-size: 30px;
+}
+.discriçao-banana{
+    color: #f5daa9;
+    font-size: 20px;
 
 }
