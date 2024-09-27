@@ -1,6 +1,7 @@
 *{
     margin: 0;
    background-color: black;
+   box-sizing: border-box;
     }
 
 .chamada{
@@ -50,5 +51,4 @@ h1{
 .discriçao-banana{
     color: #f5daa9;
     font-size: 20px;
-
 }
